@@ -1,7 +1,7 @@
 # Project Brief
 
-**Student:** [Your Name]  
-**Handle:** @[your-github-username]  
+**Student:** Tania Florez Henao 
+**Handle:** @[Tania-2809]  
 **Course:** Web Design 2025 · Fall  
 **Date:** [Fill in date - Week 2]
 
@@ -34,19 +34,19 @@
 
 ### Accessibility Goals
 
-- [ ] Semantic HTML structure
-- [ ] Proper heading hierarchy
-- [ ] Alt text for images
-- [ ] Keyboard navigation support
-- [ ] Color contrast compliance
-- [ ] Screen reader compatibility
+- [ x] Semantic HTML structure
+- [ x] Proper heading hierarchy
+- [ x] Alt text for images
+- [ x] Keyboard navigation support
+- [ x] Color contrast compliance
+- [ x] Screen reader compatibility
 
 ### Responsive Design Strategy
 
-- [ ] Mobile-first approach
-- [ ] Flexible grid system
-- [ ] Scalable typography
-- [ ] Optimized images
+- [ x] Desktop-first approach
+- [ x] Flexible grid system
+- [ x] Scalable typography
+- [ x] Optimized images
 - [ ] Touch-friendly interactions
 
 ---
@@ -55,9 +55,9 @@
 
 ### Key Sections/Pages
 
-1.
-2.
-3.
+1. Homepage / Gallery — proyecto destacado en hero + rejilla de tarjetas filtrable (búsqueda, tags)
+2. Project detail — página por proyecto con hero, resumen corto, rol, galería de imágenes (3–6), tags y CTA de contacto
+3. About & Contact — biografía breve, servicios, enlace a CV y formulario de contacto
 
 ### Content Sources
 
@@ -88,6 +88,14 @@
 ### Inspiration/References
 
 <!-- List 2-3 websites or designs that inspire your approach -->
+-https://koto.com/projects/fitbit-ace-lte
+-https://pictoric.com.ua
+-https://atolldigital.com
+
+### Decisions (layout & contenido)
+
+- **Layout (decisión):** Rejilla responsive desktop-first de 3 columnas para tarjetas de proyecto, con 1–2 proyectos destacados en hero de ancho completo. Justificación: concuerda con la estrategia "Desktop-first" ya marcada y facilita mostrar trabajos con imágenes grandes y variación de escala vista en las referencias.
+- **Contenido (decisión):** Cada tarjeta debe incluir: `Título` (H3), `Descripción corta` (40–80 palabras), `Tags/roles` y `Año`; la pagina de detalle incluirá 1 hero + 3–6 imágenes optimizadas y una sección de contexto/objetivos. Justificación: respeta objetivos de accesibilidad y carga optimizada del brief (alt text, imágenes optimizadas, jerarquía semántica).
 
 ---
 
