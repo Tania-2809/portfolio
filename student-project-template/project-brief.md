@@ -75,15 +75,22 @@
 
 ### Visual Style
 
-<!-- Describe your aesthetic approach -->
+<!-- Describe your aesthetic approach --> 
 
 ### Color Palette
 
 <!-- List your main colors -->
+-Color principal: #ff7348
+-Color fondo: #fffdf8
+-Color segundario: #000000
+
 
 ### Typography
 
 <!-- What fonts/typeface approach will you use? -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
 
 ### Inspiration/References
 
