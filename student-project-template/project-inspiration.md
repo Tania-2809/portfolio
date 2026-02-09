@@ -154,7 +154,7 @@ _Example: Potential clients looking for a designer who specializes in environmen
 
 [Describe your target audience]
 
----
+--- Clientes potenciales como editoriales, estudios de diseño o personas que quieran ilustraciones pra diferentes medios o pequeñas animaciones 
 
 ### Key Message
 
