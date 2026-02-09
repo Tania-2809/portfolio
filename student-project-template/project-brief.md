@@ -15,11 +15,11 @@
 
 ### Who is it for?
 
-<!-- Define your target audience -->
+<!-- Define your target audience --> Mi público objetivo incluye editoriales, estudios de diseño y clientes independientes que buscan ilustraciones para distintos medios, así como animaciones de pequeño formato para proyectos editoriales, digitales o de marca.
 
 ### Why does it matter?
 
-<!-- Explain the purpose and value of your project -->
+<!-- Explain the purpose and value of your project --> El propósito de esta página web es presentar mi portafolio profesional, mostrar mis proyectos de ilustración, diseño gráfico y animación, y servir como un canal para atraer y contactar posibles clientes interesados en colaboraciones creativas.
 
 ---
 

@@ -154,7 +154,7 @@ _Example: Potential clients looking for a designer who specializes in environmen
 
 [Describe your target audience]
 
---- Clientes potenciales como editoriales, estudios de diseño o personas que quieran ilustraciones pra diferentes medios o pequeñas animaciones 
+--- Mi público objetivo incluye editoriales, estudios de diseño y clientes independientes que buscan ilustraciones para distintos medios, así como animaciones de pequeño formato para proyectos editoriales, digitales o de marca.
 
 ### Key Message
 
@@ -163,7 +163,7 @@ _Example: I want them to see me as a thoughtful, detail-oriented designer who ca
 
 [Your key message]
 
----
+--- Quiero que los visitantes de mi pagina web me perciban como una diseñadora profecional, organizada, profecional pero sin ser aburrida 
 
 ### Visual Direction
 
