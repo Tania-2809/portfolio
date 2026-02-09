@@ -13,6 +13,7 @@
 	align-items: center;
 	justify-content: center;
 	background: var(--gradient-hero);
+	background-image: url(https://ik.imagekit.io/xzhjppqph/Image/Bichos.JPG?updatedAt=1770643423293);
 	text-align: center;
 	padding: var(--space-2xl);
 }

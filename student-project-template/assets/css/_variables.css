@@ -63,8 +63,8 @@
 	--font-weight-bold: 700;
 
 	/* Font families */
-	--font-family-base: 'Montserrat', var(--font-family-base), 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-	--font-family-heading: 'Rubik', system-ui, -apple-system;
+	--font-family-base: 'Montserrat', sans-serif;
+	--font-family-heading: 'Rubik', sans-serif;	
 	--font-family-mono: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace;
 
 	/* ===== SPACING SCALE ===== */
@@ -108,7 +108,7 @@
 	--z-tooltip: 70;
 
 	/* ===== SCROLLYTELLING GRADIENTS ===== */
-	--gradient-hero: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+	--gradient-hero: linear-gradient(#ff7348, #ffa44a 100%);
 	--gradient-chapter-1: linear-gradient(135deg, #2c3e50, #34495e);
 	--gradient-chapter-2: linear-gradient(135deg, #c0392b, #8e44ad);
 	--gradient-chapter-3: linear-gradient(135deg, #27ae60, #2ecc71);

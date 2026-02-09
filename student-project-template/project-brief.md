@@ -11,7 +11,7 @@
 
 ### What are you building?
 
-<!-- Describe your project in 2-3 sentences -->
+<!-- Describe your project in 2-3 sentences --> This project is a personal portfolio website designed to showcase my work in illustration, graphic design, and small-format animation. Its goal is to present my creative style clearly and professionally while attracting potential clients such as publishers, design studios, and independent collaborators.
 
 ### Who is it for?
 
@@ -65,8 +65,8 @@
 
 ### Multilingual Considerations
 
-- Primary language:
-- Secondary language (optional):
+- Primary language: Spanish
+- Secondary language (optional): English
 - Translation strategy:
 
 ---
