@@ -30,9 +30,13 @@ main {
 }
 
 /* ===== GRID LAYOUTS ===== */
-.grid {
-	display: grid;
-	gap: var(--space-xl);
+.grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: var(--space-xl);
+  padding: var(--space-lg) var(--space-2xl);
+  justify-content: center;
+  align-items: center;
 }
 
 .grid-2 {

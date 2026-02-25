@@ -109,13 +109,13 @@
 
 	/* ===== SCROLLYTELLING GRADIENTS ===== */
 	--gradient-hero: linear-gradient(#ff7348, #ffa44a 100%);
-	--gradient-chapter-1: linear-gradient(135deg, #2c3e50, #34495e);
-	--gradient-chapter-2: linear-gradient(135deg, #c0392b, #8e44ad);
-	--gradient-chapter-3: linear-gradient(135deg, #27ae60, #2ecc71);
+	--gradient-chapter-1: #fffdf8;
+	--gradient-chapter-2: #fffdf8;
+	--gradient-chapter-3: #27ae60;
 
 	/* ===== SCROLLYTELLING COLORS ===== */
 	--color-accent-blue: #3498db;
-	--color-accent-red: #e74c3c;
+	--color-accent-red: #fafaf9;
 	--color-accent-green: #2ecc71;
 	--color-overlay-dark: rgba(0, 0, 0, 0.4);
 	--color-card-bg: rgba(255, 255, 255, 0.05);
