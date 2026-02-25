@@ -2,7 +2,7 @@
 
 **Student:** Tania Florez Henao 
 **Handle:** @[Tania-2809]  
-**Course:** Web Design 2025 · Fall  
+**Course:** Web Design 2026 · Fall  
 **Date:** [Fill in date - Week 2]
 
 ---
