@@ -22,11 +22,12 @@
   padding: 1rem 2rem;
 }
 
-/* LOGO */
-.logo {
-  font-weight: bold;
-  font-size: 1.2rem;
+.logo img {
+  height: 45px;
+  width: auto;
+  display: block;
 }
+
 
 /* LINKS */
 .nav-links {
@@ -149,6 +150,21 @@
   justify-content: center;
   background: var(--gradient-hero);
   background-image: url(https://ik.imagekit.io/xzhjppqph/Image/tarjetas.png?updatedAt=1772023611971);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: var(--space-2xl);
+
+}
+/* ===== HERO SECTION 4 ===== */
+.hero-4 {
+	  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gradient-hero);
+  background-image: url(https://ik.imagekit.io/xzhjppqph/Image/Carriel1.png?updatedAt=1770643456504);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
