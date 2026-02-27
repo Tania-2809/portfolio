@@ -57,13 +57,11 @@
 	--line-height-body: 1.6;
 	--line-height-relaxed: 1.75;
 
-	/* Font weights (Editorial System: No bold by default) */
+	/* Font weights*/
 	--font-weight-regular: 400;
 	--font-weight-medium: 500;
 	--font-weight-semibold: 600;
-	/* Deprecated: use weight-semibold instead */
-	--font-weight-normal: 400;
-	--font-weight-bold: 600;
+	--font-weight-bold: 700;
 
 	/* Font families */
 	--font-family-base: 'Montserrat', sans-serif;
@@ -117,9 +115,9 @@
 	
 
 	/* ===== SCROLLYTELLING COLORS ===== */
-	--color-accent-blue: #ff7348;
-	--color-accent-red: #fafaf9;
-	--color-grey-light: #94a3b8;;
+	--color-accent-primary: #ff7348;
+	--color-accent-secondary: #fafaf9;
+	--color-cream: #f5f4d5;
 	--color-accent-orange: #ffa44a;
 	--color-overlay-dark: rgba(0, 0, 0, 0.4);
 	--color-card-bg: rgba(255, 255, 255, 0.05);
@@ -136,7 +134,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--color-text-primary: #f1f5f9;
-		--color-text-secondary: #cbd5e1;
+		--color-text-secondary: #7c7d7f;
 		--color-text-muted: #94a3b8;
 
 		--color-bg: #0f172a;
